@@ -1,0 +1,16 @@
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Methods\obj\Debug\net7.0-windows\CST_150_Methods.FrmMain.resources
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Methods\obj\Debug\net7.0-windows\CST-150 Methods.csproj.GenerateResource.cache
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Methods\obj\Debug\net7.0-windows\CST-150 Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Methods\obj\Debug\net7.0-windows\CST-150 Methods.AssemblyInfoInputs.cache
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Methods\obj\Debug\net7.0-windows\CST-150 Methods.AssemblyInfo.cs
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Methods\obj\Debug\net7.0-windows\CST-150 Methods.csproj.CoreCompileInputs.cache
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Methods\bin\Debug\net7.0-windows\CST-150 Methods.exe
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Methods\bin\Debug\net7.0-windows\CST-150 Methods.deps.json
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Methods\bin\Debug\net7.0-windows\CST-150 Methods.runtimeconfig.json
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Methods\bin\Debug\net7.0-windows\CST-150 Methods.dll
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Methods\bin\Debug\net7.0-windows\CST-150 Methods.pdb
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Methods\obj\Debug\net7.0-windows\CST-150 Methods.dll
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Methods\obj\Debug\net7.0-windows\refint\CST-150 Methods.dll
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Methods\obj\Debug\net7.0-windows\CST-150 Methods.pdb
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Methods\obj\Debug\net7.0-windows\CST-150 Methods.genruntimeconfig.cache
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Methods\obj\Debug\net7.0-windows\ref\CST-150 Methods.dll
